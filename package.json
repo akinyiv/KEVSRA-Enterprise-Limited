@@ -1,0 +1,23 @@
+{
+  "name": "kevsra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinyiv/KEVSRA-Enterprise-Limited.git"
+  },
+  "author": "Vee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akinyiv/KEVSRA-Enterprise-Limited/issues"
+  },
+  "homepage": "https://github.com/akinyiv/KEVSRA-Enterprise-Limited#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.2.0"
+  }
+}
