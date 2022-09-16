@@ -114,7 +114,12 @@ section {
 .slide .display-3 {
     text-transform: uppercase;
     color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
+
 
 /* navbar */
 .top-nav {
